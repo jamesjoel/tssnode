@@ -1,0 +1,19 @@
+{
+  "name": "pra1",
+  "version": "1.0.0",
+  "description": "this is my test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "james",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+    
+  }
+}
+ 
